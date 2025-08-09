@@ -9,7 +9,8 @@ A simple Python script to change the visibility of ALL your public GitHub reposi
 > This script performs a **permanent action**. Once a repository is made private, public links will break and GitHub Pages sites will be unpublished.
 >
 > **Please use this with extreme caution!** It's a good idea to test it on a dummy account or repository first.
-> **Also, this script doesn’t change your forked repos to private**
+>
+> ⚠️ **Also, this script doesn’t change your forked repos to private**
 
 ---
 
